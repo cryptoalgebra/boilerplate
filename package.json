@@ -9,7 +9,7 @@
     "hardhat": "^2.9.9"
   },
   "dependencies": {
-    "@cryptoalgebra/core": "2.0.0",
-    "@cryptoalgebra/periphery": "1.0.0"
+    "@cryptoalgebra/integral-core": "0.1.0",
+    "@cryptoalgebra/integral-periphery": "0.1.0"
   }
 }
